@@ -1,0 +1,119 @@
+*****************
+WORKSHOP ON GENERATIVE AI -- META LLM MODEL WITH HUGGING FACE
+-----------------
+Workshop on Hands-on Generative AI [Utilizing LLaMA3 and Hugging Face] @ 10:00 AM (IST)
+Webinar: zoom.us/j/85072646817
+------------------
+
+1- Self introduction 
+	https://www.linkedin.com/in/kodi-prakash-senapati-a95a60182/
+	
+2- llm model 
+
+	chat gpt --> open ai (I already taken an workshop before)
+	gemini ai --> google (I already taken an workshop before)
+	llama --> meta (facebook)
+	
+
+
+3- meta llama 2 & llama 3 
+	8B pretrained
+	70B pretrained 
+
+llama3 --> integrated to meta , hugging face & kaggle 
+	
+llama3 --> 	
+	fine tunning 
+	quantization
+	prmpting 
+	validation 
+	
+ fine-tuning is a method that fine-tunes all the parameters of all the 
+ layers of the pre-trained model. 	
+ 
+ these model we can build using gpu 
+	lora 
+	qlora 
+	
+prompting 
+	zero shot prompt -- no exaple requikred to creat prompt (creat horse image)
+	few shot prompt  -- create horse image ( refer to 1image) 
+	
+
+gpt4 --> when you build this model not free version
+meta llama3 --> free version 
+gemain ai --> open source
+----
+LLAMA3 -->
+----
+HUGGING FACE -->
+-----
+	
+	PRE-TRAINED MODEL, DATASET, LLM DATASET, TEXT DATA, IMAGES
+	
+ANYBODY WHO LOGIN FOR THE 1ST TIME 
+
+model = "meta-llama/Meta-Llama-3-8B"
+HF_TOKEN = " TOKEN " -> LLAMA3 
+	
+	
+1- We save the model file from llama3 -- 8b pretrained model 
+2- HF TOKENs we created
+3- google colab 
+	
+
+	
+llama3 integration to -->
+		langchain 
+		llamaindex
+		
+		
+ fine-tuning is a method that fine-tunes all the parameters of all the layers of the pre-trained model. 
+
+
+learner who is complete new no worry ( join from tomorrow)
+learnewer who work with me (good & continue like that) 
+learner who work with me getting error -- dont angry just calm down ( watch the recording one more time)
+
+
+
+
+1- duration of the workshop - 2hr 
+2- anyone join this session with mobile network -- practicle do it later
+3- join with wifi user can work along with me 
+4- 
+
+raise your hand can we talk at the end 
+
+
+accelate file --> 
+	https://pypi.org/project/accelerate/
+
+
+you build own meta ai mode lik gpt like gemini ai using prompt -- develop llm model with 
+	llama3 -8b parameter with hugging face auth token 
+	
+using olama we build cpu 
+
+olama 
+
+===== can we build these model in local ===
+	using help of ollam 
+	
+	
+step to build llm model in local -->
+-=---
+1- google
+2- ollama - models - download the models based on your operating system
+3- ollama software file download to download folder 
+4- install the ollama file 
+5- go to control panel - check olama setup properly
+6- open vs code 
+7- create an environment file 
+8- create requirment.txt 
+
+
+********************
+Full Stack DATA SCIENCE & AI @ 7:30 PM (IS)T by Mr. Prakash Senapathi From 15th July
+Link: zoom.us/j/84093738816
+********************
